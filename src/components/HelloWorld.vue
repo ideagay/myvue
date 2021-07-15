@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>it's commit 7</h1>
+    <h1>it's commit 8</h1>
   </div>
 </template>
 
